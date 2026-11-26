@@ -48,8 +48,6 @@ tcs-financial-forecast-agent/
   docs/
     architecture.png
   scripts/
-    download_documents.py
-    generate_architecture_diagram.py
     smoke_test.py
   .env.example
   requirements.txt
@@ -162,13 +160,7 @@ Place PDFs in:
 
 Use clear filenames with quarter labels, e.g. `TCS_Q1_FY2026-27_Financial_Results.pdf`.
 
-You can also try:
-
-```bash
-python scripts/download_documents.py --quarters 3
-```
-
-If automated download misses files, manually download from [Screener TCS documents](https://www.screener.in/company/TCS/consolidated/#documents).
+If you need more documents, manually download them from [Screener TCS documents](https://www.screener.in/company/TCS/consolidated/#documents) and place PDFs in `data/reports/` or `data/transcripts/`.
 
 ### 7) Run the API locally
 

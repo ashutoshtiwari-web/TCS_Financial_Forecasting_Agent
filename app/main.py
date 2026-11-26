@@ -100,7 +100,7 @@ def forecast(req: ForecastRequest):
     if not docs:
         raise HTTPException(
             status_code=400,
-            detail="No documents found. Place TCS quarterly reports in data/reports and transcripts in data/transcripts, or run scripts/download_documents.py.",
+            detail="No documents found. Place TCS quarterly report PDFs in data/reports and transcript PDFs in data/transcripts.",
         )
 
     try:
