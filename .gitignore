@@ -1,0 +1,27 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+data/chroma/
+data/cache/
+logs/*.log
+.DS_Store
+.pytest_cache/
+
+# Local runtime artifacts
+logs/
+.env
+.env.*
+!.env.example
+
+# Data caches/vector DB
+data/chroma/
+data/cache/
+
+# OS/editor
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc

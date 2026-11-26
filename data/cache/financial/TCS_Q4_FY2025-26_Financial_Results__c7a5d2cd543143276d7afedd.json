@@ -1,0 +1,85 @@
+{
+  "source": "TCS_Q4_FY2025-26_Financial_Results.pdf",
+  "path": "/Users/amishatiwari/Downloads/tcs-financial-forecast-agent/data/reports/TCS_Q4_FY2025-26_Financial_Results.pdf",
+  "content_sha256": "abbccfbe62d1fceb21df524de4e964f0c092e91cd08308b6ca43b53632526a6e",
+  "mtime_ns": 1795519796086490345,
+  "size": 2219664,
+  "extracted_at": "2026-11-25T15:23:18.715347+00:00",
+  "result": {
+    "quarter": "FY2025-26",
+    "metrics": [
+      {
+        "metric": "Revenue from operations",
+        "value": "70,698 ₹ crore",
+        "period": "FY2025-26",
+        "source": "TCS_Q4_FY2025-26_Financial_Results.pdf",
+        "notes": "Consolidated, quarter"
+      },
+      {
+        "metric": "Revenue Growth YoY",
+        "value": "9.65%",
+        "period": "FY2025-26",
+        "source": "TCS_Q4_FY2025-26_Financial_Results.pdf",
+        "notes": "vs same quarter previous year, consolidated"
+      },
+      {
+        "metric": "Revenue Growth QoQ",
+        "value": "5.38%",
+        "period": "FY2025-26",
+        "source": "TCS_Q4_FY2025-26_Financial_Results.pdf",
+        "notes": "vs previous quarter, consolidated"
+      },
+      {
+        "metric": "Total Income",
+        "value": "71,455 ₹ crore",
+        "period": "FY2025-26",
+        "source": "TCS_Q4_FY2025-26_Financial_Results.pdf",
+        "notes": "Consolidated, quarter"
+      },
+      {
+        "metric": "Net Profit (Profit for the period)",
+        "value": "13,784 ₹ crore",
+        "period": "FY2025-26",
+        "source": "TCS_Q4_FY2025-26_Financial_Results.pdf",
+        "notes": "Consolidated, quarter"
+      },
+      {
+        "metric": "Net Margin",
+        "value": "19.50%",
+        "period": "FY2025-26",
+        "source": "TCS_Q4_FY2025-26_Financial_Results.pdf",
+        "notes": "Profit for period / Revenue from operations"
+      },
+      {
+        "metric": "Net Profit Growth YoY",
+        "value": "12.13%",
+        "period": "FY2025-26",
+        "source": "TCS_Q4_FY2025-26_Financial_Results.pdf",
+        "notes": "vs same quarter previous year, consolidated"
+      },
+      {
+        "metric": "Operating Margin (PBT before exceptional items)",
+        "value": "25.97%",
+        "period": "FY2025-26",
+        "source": "TCS_Q4_FY2025-26_Financial_Results.pdf",
+        "notes": "PBT before exceptional items / Revenue from operations"
+      },
+      {
+        "metric": "Total Tax Expense",
+        "value": "4,578 ₹ crore",
+        "period": "FY2025-26",
+        "source": "TCS_Q4_FY2025-26_Financial_Results.pdf",
+        "notes": "Consolidated, quarter"
+      },
+      {
+        "metric": "Dividend",
+        "value": "₹ 31 per share",
+        "period": "FY2025-26",
+        "source": "TCS_Q4_FY2025-26_Financial_Results.pdf",
+        "notes": "As reported; verify type/period in source"
+      }
+    ],
+    "summary": "Revenue from operations was 70,698 ₹ crore. profit for the period was 13,784 ₹ crore. revenue YoY 9.65%.",
+    "cache_hit": false
+  }
+}

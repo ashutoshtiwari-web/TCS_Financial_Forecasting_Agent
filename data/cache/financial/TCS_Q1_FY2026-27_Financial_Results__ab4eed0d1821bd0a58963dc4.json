@@ -1,0 +1,85 @@
+{
+  "source": "TCS_Q1_FY2026-27_Financial_Results.pdf",
+  "path": "/app/data/reports/TCS_Q1_FY2026-27_Financial_Results.pdf",
+  "content_sha256": "c9a47d5cfa27a80a49070e60f306f092819535e4023da7a398d7df592763fd06",
+  "mtime_ns": 1795519777568344753,
+  "size": 1395127,
+  "extracted_at": "2026-11-25T14:37:01.358641+00:00",
+  "result": {
+    "quarter": "FY2026-27",
+    "metrics": [
+      {
+        "metric": "Revenue from operations",
+        "value": "72,275 ₹ crore",
+        "period": "FY2026-27",
+        "source": "TCS_Q1_FY2026-27_Financial_Results.pdf",
+        "notes": "Consolidated, quarter"
+      },
+      {
+        "metric": "Revenue Growth YoY",
+        "value": "13.93%",
+        "period": "FY2026-27",
+        "source": "TCS_Q1_FY2026-27_Financial_Results.pdf",
+        "notes": "vs same quarter previous year, consolidated"
+      },
+      {
+        "metric": "Revenue Growth QoQ",
+        "value": "2.23%",
+        "period": "FY2026-27",
+        "source": "TCS_Q1_FY2026-27_Financial_Results.pdf",
+        "notes": "vs previous quarter, consolidated"
+      },
+      {
+        "metric": "Total Income",
+        "value": "73,843 ₹ crore",
+        "period": "FY2026-27",
+        "source": "TCS_Q1_FY2026-27_Financial_Results.pdf",
+        "notes": "Consolidated, quarter"
+      },
+      {
+        "metric": "Net Profit (Profit for the period)",
+        "value": "13,420 ₹ crore",
+        "period": "FY2026-27",
+        "source": "TCS_Q1_FY2026-27_Financial_Results.pdf",
+        "notes": "Consolidated, quarter"
+      },
+      {
+        "metric": "Net Margin",
+        "value": "18.57%",
+        "period": "FY2026-27",
+        "source": "TCS_Q1_FY2026-27_Financial_Results.pdf",
+        "notes": "Profit for period / Revenue from operations"
+      },
+      {
+        "metric": "Net Profit Growth YoY",
+        "value": "4.69%",
+        "period": "FY2026-27",
+        "source": "TCS_Q1_FY2026-27_Financial_Results.pdf",
+        "notes": "vs same quarter previous year, consolidated"
+      },
+      {
+        "metric": "Operating Margin (PBT before exceptional items)",
+        "value": "25.75%",
+        "period": "FY2026-27",
+        "source": "TCS_Q1_FY2026-27_Financial_Results.pdf",
+        "notes": "PBT before exceptional items / Revenue from operations"
+      },
+      {
+        "metric": "Total Tax Expense",
+        "value": "4,524 ₹ crore",
+        "period": "FY2026-27",
+        "source": "TCS_Q1_FY2026-27_Financial_Results.pdf",
+        "notes": "Consolidated, quarter"
+      },
+      {
+        "metric": "Dividend",
+        "value": "₹ 12 per share",
+        "period": "FY2026-27",
+        "source": "TCS_Q1_FY2026-27_Financial_Results.pdf",
+        "notes": "As reported; verify type/period in source"
+      }
+    ],
+    "summary": "Revenue from operations was 72,275 ₹ crore. profit for the period was 13,420 ₹ crore. revenue YoY 13.93%.",
+    "cache_hit": false
+  }
+}

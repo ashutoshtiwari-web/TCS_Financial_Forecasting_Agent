@@ -1,0 +1,35 @@
+# Web API
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-multipart==0.0.20
+
+# LLM / Agent / RAG
+langchain==0.3.14
+langchain-community==0.3.14
+langchain-core==0.3.29
+langchain-openai==0.3.0
+langchain-ollama==0.2.2
+langchain-text-splitters==0.3.5
+chromadb==0.6.3
+
+# Document parsing
+pypdf==5.1.0
+pdfplumber==0.11.4
+
+# Config / validation
+python-dotenv==1.0.1
+pydantic==2.10.4
+pydantic-settings==2.7.1
+
+# Database
+SQLAlchemy==2.0.36
+PyMySQL==1.1.1
+cryptography==44.0.0
+
+# HTTP / market data / utilities
+httpx==0.28.1
+requests==2.32.3
+yfinance==0.2.51
+
+# Dev/docs utility (architecture diagram script)
+matplotlib==3.10.0
